@@ -10,7 +10,7 @@ import lombok.Setter;
 @Setter
 @Getter
 @AllArgsConstructor
-
+//
 public class ActionForward {
 	private String path;
 	private boolean redirect;
