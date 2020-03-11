@@ -9,6 +9,7 @@ import lombok.Setter;
 @Setter
 @Getter
 @AllArgsConstructor
+//
 public class MemberVO {
 	private String id;
 	private String password;
